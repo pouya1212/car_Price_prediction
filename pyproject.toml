@@ -1,0 +1,19 @@
+[project]
+name = "advisor-clip-opencv-pipeline"
+version = "0.1.0"
+description = "Offline CLIP fine-tuning and OpenCV metrics for dealership image classification"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas",
+  "numpy",
+  "pillow",
+  "tqdm",
+  "scikit-learn",
+  "torch",
+  "transformers",
+  "opencv-python-headless",
+  "safetensors",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

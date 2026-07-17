@@ -1,0 +1,9 @@
+pandas
+numpy
+pillow
+tqdm
+scikit-learn
+torch
+transformers
+opencv-python-headless
+safetensors

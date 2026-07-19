@@ -10,7 +10,7 @@ The core pipeline is written in Python and runs on Windows, macOS, and Linux. Sl
 
 The following unlabeled image was assigned to `interior_dashboard` by the trained model:
 
-![Example prediction classified as interior dashboard](docs/images/example_interior_dashboard.jpg)
+![Example prediction classified as interior dashboard](Sample/37142_28_WAUC4AF46LA058224.png)
 
 ## What the project does
 
